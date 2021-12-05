@@ -1,0 +1,16 @@
+SMAP
+assign_jsp.java
+JSP
+*S JSP
+*F
++ 0 assign.jsp
+list/assign.jsp
+*L
+5,12:54
+17,2:66,3
+19,2:72
+20:101,11
+21:112,6
+22:118
+22,8:76
+*E
